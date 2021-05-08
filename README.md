@@ -1,2 +1,2 @@
-# torch_ZINBloss
+# torch-ZINB
 This is implement of ZINB loss
